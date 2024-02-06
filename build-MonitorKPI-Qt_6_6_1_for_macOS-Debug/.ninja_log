@@ -1,0 +1,9 @@
+# ninja log v5
+1	208	1707244759608758136	MonitorKPI_autogen/timestamp	afbaa5d5331981e4
+1	208	1707244759608758136	MonitorKPI_autogen/mocs_compilation.cpp	afbaa5d5331981e4
+1	208	1707244759608758136	/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/MonitorKPI_autogen/timestamp	afbaa5d5331981e4
+1	208	1707244759608758136	/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/MonitorKPI_autogen/mocs_compilation.cpp	afbaa5d5331981e4
+208	1001	1707244760401503178	CMakeFiles/MonitorKPI.dir/MonitorKPI_autogen/mocs_compilation.cpp.o	a4ed494a3bab89bb
+208	1003	1707244760401504178	CMakeFiles/MonitorKPI.dir/main.cpp.o	d8155d290794dea0
+208	1003	1707244760406066228	CMakeFiles/MonitorKPI.dir/mainwindow.cpp.o	a0724d92dfa3250c
+1003	1185	1707244760587777683	MonitorKPI.app/Contents/MacOS/MonitorKPI	928ca15d79869164

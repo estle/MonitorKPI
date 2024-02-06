@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-288d216fba628ddc0439.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MonitorKPI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MonitorKPI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MonitorKPI-Debug-1b50e69c7a5e7b21ed14.json",
+					"name" : "MonitorKPI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MonitorKPI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MonitorKPI_autogen-Debug-889fe1da238f08affbf7.json",
+					"name" : "MonitorKPI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MonitorKPI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MonitorKPI_autogen_timestamp_deps-Debug-fa3be387b30f9c0a41dc.json",
+					"name" : "MonitorKPI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug",
+		"source" : "/Users/ai/Developer/MonitorKPI/MonitorKPI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

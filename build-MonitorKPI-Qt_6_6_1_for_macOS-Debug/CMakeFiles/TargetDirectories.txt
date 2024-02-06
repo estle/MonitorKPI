@@ -1,0 +1,9 @@
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/MonitorKPI.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/MonitorKPI_autogen_timestamp_deps.dir
+/Users/ai/Developer/MonitorKPI/build-MonitorKPI-Qt_6_6_1_for_macOS-Debug/CMakeFiles/MonitorKPI_autogen.dir
